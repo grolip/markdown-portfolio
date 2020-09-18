@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Jim Lahey](https://vignette.wikia.nocookie.net/villains/images/f/f5/Lahey.jpg/revision/latest?cb=20131226034445)
